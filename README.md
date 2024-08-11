@@ -10,7 +10,11 @@
     
  ###
     
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=dracula)
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=holi" alt="Matheus GitHub stats" style="width: 48%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbrts&hide_progress&theme=holi" alt="Top Langs" style="width: 48%;">
+</div>
+
 
 ### Tecnologias que utilizo.
 
@@ -20,5 +24,5 @@
 </div>
 
 ###
-Sou apaixonado por tecnologia e estou estudando Análise e Desenvolvimento de Sistemas. No momento, estou me aprofundando em Python e R, e sempre em busca de novos desafios para ampliar meu conhecimento e habilidades na área. Atualmente busco minha primeira oportunidade para atuar como Analista de dados.
+Sou apaixonado por tecnologia e estou estudando Análise e Desenvolvimento de Sistemas. No momento, estou me aprofundando em Python e R, e sempre em busca de novos desafios para ampliar meu conhecimento.
 
