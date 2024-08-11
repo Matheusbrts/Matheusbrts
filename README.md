@@ -34,3 +34,4 @@
 ###
 Sou apaixonado por tecnologia e estou estudando Análise e Desenvolvimento de Sistemas. No momento, estou me aprofundando em Python e R, e sempre em busca de novos desafios para ampliar meu conhecimento.
 
+
