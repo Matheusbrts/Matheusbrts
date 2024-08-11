@@ -18,9 +18,19 @@
     
  ###
     
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=holi" alt="Matheus GitHub stats" style="width: %; height: 100;">
-  
-    
+<div>
+  <a href="https://github.com/Matheusbrts">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan338&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan338&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+### Tecnologias que utilizo.
+
+<div style="display: inline_block"><br/><img align="center" alt ="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt ="My sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt ="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</div>
+
+###
+Sou apaixonado por tecnologia e estou estudando Análise e Desenvolvimento de Sistemas. No momento, estou me aprofundando em Python e R, e sempre em busca de novos desafios para ampliar meu conhecimento.
 
