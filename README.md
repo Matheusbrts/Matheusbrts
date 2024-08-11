@@ -18,8 +18,9 @@
     
  ###
     
- <img src="https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=holi" alt="Matheus GitHub stats" style="width: 50%; height: 100;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbrts&hide_progress&theme=holi" alt="Top Langs" style="width: ; height: 100;">>
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=holi" alt="Matheus GitHub stats" style="width: %; height: 100;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusbrts&hide_progress&theme=holi" alt="Top Langs" style="width: 100%; height: 100;">100;">>
     
 </div>
 
