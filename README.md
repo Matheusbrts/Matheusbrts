@@ -2,6 +2,8 @@
 
 ## Bem Vindo ao meu Perfil do GitHub!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheusbrts&color=blue" alt="Profile views" /> </p>
+
 * Atualmente cursando analise e desenvolvimento de sistemas 📚,
 * Imerso no mundo de dados 📈
 
