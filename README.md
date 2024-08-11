@@ -1,10 +1,15 @@
 ### Olá! Eu sou o Matheus Brito         👋
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-brito-81a1b0245)
+ <a href="https://linkedin.com/in/matheus-brito-81a1b0245">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+   <a href="mailto:matheusvitoria922@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matheusvitoria922@gmail.com)
     
-
+ ###
+    
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheusbrts&show_icons=true&theme=dracula)
 
 ### Tecnologias que utilizo.
